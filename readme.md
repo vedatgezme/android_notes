@@ -10,7 +10,7 @@ Open a activity
  </a>
  
 
-<br><br>
+<br>
 <h1>Firebase</h1>
 
  
