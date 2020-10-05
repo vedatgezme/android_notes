@@ -1,9 +1,11 @@
 
-
-
-<h2> 
+<h1>Activity Settings</h1>
 <a href="https://github.com/vedatgezme/android_notes/blob/main/activity_settings/blockscreen_shot.java">
 Block the Screenshot 
+ </a>
+ 
+<a href="https://github.com/vedatgezme/android_notes/blob/main/activity_settings/openNextActivity.java">
+Open a activity
  </a>
  
 
