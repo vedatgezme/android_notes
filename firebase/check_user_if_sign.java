@@ -7,11 +7,11 @@ firebaseUser = firebaseAuth.getCurrentUser();
 
  if(firebaseUser!=null)
   {
-      System.out.println("NULL ");
+      System.out.println("Not Null ");
   }
   else
   {
-         System.out.println("Not Null ");
+      System.out.println("Null ");
   }
 
 
