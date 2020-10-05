@@ -1,6 +1,6 @@
 
 <a href="https://github.com/vedatgezme/android_notes/blob/main/activity_settings/blockscreen_shot.java">
- <h1>Block the Screenshot</h1> 
+ Block the Screenshot
  </a>
 
 <br>
