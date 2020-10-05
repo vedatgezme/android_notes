@@ -1,6 +1,7 @@
 
-<h1>Block the Screenshot</h1> 
-getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,WindowManager.LayoutParams.FLAG_SECURE);
+<a href="https://github.com/vedatgezme/android_notes/blob/main/activity_settings/blockscreen_shot.java">
+ <h1>Block the Screenshot</h1> 
+ </a>
 
 <br>
 <hr/>
@@ -8,19 +9,7 @@ getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,WindowManager.Layout
 
 
 <h1>Check Firebaseuser user </h1> 
-FirebaseUser firebaseUser;
-FirebaseAuth firebaseAuth;
-firebaseAuth = FirebaseAuth.getInstance();
-firebaseUser = firebaseAuth.getCurrentUser();
 
- if(firebaseUser!=null)
-  {
-      System.out.println("NULL ");
-  }
-  else
-  {
-         System.out.println("Not Null ");
-  }
 
 <br>
 <hr/>
