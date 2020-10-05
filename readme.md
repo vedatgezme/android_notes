@@ -7,81 +7,22 @@ getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,WindowManager.Layout
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1>Check Firebaseuser user </h1> 
+FirebaseUser firebaseUser;
+FirebaseAuth firebaseAuth;
+firebaseAuth = FirebaseAuth.getInstance();
+firebaseUser = firebaseAuth.getCurrentUser();
+
+ if(firebaseUser!=null)
+  {
+      System.out.println("NULL ");
+  }
+  else
+  {
+         System.out.println("Not Null ");
+  }
+
+<br>
+<hr/>
+<br>
 
