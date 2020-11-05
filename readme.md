@@ -17,7 +17,7 @@ Open a activity
 <a href="https://github.com/vedatgezme/android_notes/blob/main/firebase/check_user_if_sign.java">
  Check if user sign in ( Firebase )
  </a>
- 
+ <br>
   
 <a href="https://github.com/vedatgezme/android_notes/blob/main/firebase/firestore_settings">
  Firebase Firestore Settings
