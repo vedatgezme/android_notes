@@ -1,0 +1,19 @@
+// Allows READ but for write a file should sing in
+
+rules_version = '2';
+service cloud.firestore {
+match /databases/{database}/documents {
+
+ match /{document=**} {
+      allow read;
+      allow write : if giris();
+    }
+    
+    
+ function giris()
+ {
+  return request.auth != null; 
+ }
+ 
+}
+}
