@@ -18,5 +18,11 @@ Open a activity
  Check if user sign in ( Firebase )
  </a>
  
+  
+<a href="https://github.com/vedatgezme/android_notes/blob/main/firebase/firestore_settings">
+ Firebase Firestore Settings
+ </a>
+ 
+ 
  
  
